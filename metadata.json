@@ -1,0 +1,6 @@
+{
+  "name": "ReactPath",
+  "description": "An interactive, high-fidelity React 19 learning platform featuring courses, quizzes, interactive playground, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
